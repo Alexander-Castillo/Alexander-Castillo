@@ -43,13 +43,4 @@ Soy estudiante del Bootcamp Full Stack Jr en Kodigo.<br>Técnico en Ingenieria d
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AlexanderCastillo214) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alexander-Castillo&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Alexander-Castillo&icon=0&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
