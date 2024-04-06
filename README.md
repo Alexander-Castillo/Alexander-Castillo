@@ -28,6 +28,9 @@ Soy estudiante del Bootcamp Full Stack Jr en Kodigo.<br>Técnico en Ingenieria d
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Castillo&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Castillo&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Alexander-Castillo&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
