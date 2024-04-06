@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Soy estudiante del Bootcamp Full Stack Jr en Kodigo.<br>Técnico en Ingenieria de Sistemas Informaticos.<br>
+Soy estudiante del Bootcamp Full Stack Jr en Kodigo.<br>Técnico en Ingenieria de Sistemas Informaticos.<br>learning and immersing myself again in this wonderful world of programming.
 
 
 ## 🌐 Socials:
